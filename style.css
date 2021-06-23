@@ -1,0 +1,21 @@
+body
+{
+    background-color: #2BDE;
+    text-align: center;
+}
+ul, h1, h2, h3, h4, footer, header, p
+{
+    font-family: Helvetica;
+}
+img
+{
+    width: 200px;
+}
+ul
+{
+    text-decoration: none;
+}
+html
+{
+    scroll-behavior: smooth;
+}
